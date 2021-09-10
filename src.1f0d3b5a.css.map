@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,UACI,iBACJ,CAEA,YACI,eACJ,CAEA,OACI,YACJ,CAEA,YACI,iBACJ","file":"src.1f0d3b5a.css","sourceRoot":"../src","sourcesContent":[".load-btn {\n    visibility: hidden;\n}\n\n.photo-card{\n    list-style: none;\n}\n\n.stats{\n    display: flex;\n}\n\n.stats-item{\n    margin-right: 40px;\n}\n\n"]}
